@@ -188,4 +188,25 @@ body {
     border: none;
     border-radius: 5px;
     margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#footer {
+    background: #0B0D17;
+    padding: 30px 0px;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.footer-content span {
+    color: #fb5200;
+}
+
+.footer-content h2 {
+    color: #5B5B5B;
+    font-size: 30px;
+}
+
+.footer-content p {
+    color: #465A6A;
 }
