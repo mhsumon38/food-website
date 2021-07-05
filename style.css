@@ -54,7 +54,7 @@ body {
 
 .about-image {
     width: 40%;
-    padding-left: 10%;
+    padding-left: 5%;
 }
 
 .about-content {
@@ -117,4 +117,30 @@ body {
 
 .recipi-item p {
     color: #66676B;
+}
+
+
+/* Follower Section Start */
+
+#followers {
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    display: flex;
+    border-radius: 20px;
+    margin-top: 80px;
+}
+
+.follower-item {
+    text-align: center;
+    padding-left: 15%;
+}
+
+.follower-item h2 {
+    padding-top: 30px;
+    font-size: 40px;
+}
+
+.follower-item p {
+    padding-bottom: 30px;
 }
