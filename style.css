@@ -92,6 +92,7 @@ body {
 
 .recipies-menu {
     display: flex;
+    margin-top: 35px;
 }
 
 .recipi-item {
@@ -108,4 +109,12 @@ body {
 
 .recipi-item img {
     width: 100%;
+}
+
+.recipi-item h5 {
+    font-size: 22px;
+}
+
+.recipi-item p {
+    color: #66676B;
 }
