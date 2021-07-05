@@ -144,3 +144,48 @@ body {
 .follower-item p {
     padding-bottom: 30px;
 }
+
+
+/* Registration Section Start */
+
+#Registration {
+    /* background: chocolate; */
+    box-shadow: 10px 10px 40px gray;
+    margin-left: 5%;
+    margin-right: 5%;
+    border-radius: 20px;
+    margin-top: 60px;
+}
+
+.form {
+    padding-left: 5%;
+}
+
+.form h2 {
+    text-align: center;
+}
+
+.form-design {
+    width: 45%;
+    padding: 5px 0px 5px 10px;
+    border: none;
+    margin-bottom: 10px;
+    font-size: 16px;
+    color: #676767;
+    border: 1px solid rgb(22, 22, 22);
+}
+
+.text-area {
+    width: 92%;
+}
+
+.submit {
+    text-align: center;
+    font-size: 16px;
+    color: #000;
+    background: #fb5200;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+}
