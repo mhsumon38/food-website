@@ -95,8 +95,15 @@ body {
 }
 
 .recipi-item {
-    width: 20%;
-    margin-left: 10%;
+    width: 25%;
+    margin-left: 5%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.last {
+    margin-right: 5%;
 }
 
 .recipi-item img {
