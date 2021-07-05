@@ -69,3 +69,36 @@ body {
     color: #7e7d7d;
     padding-bottom: 25px;
 }
+
+
+/* Recipies Section Start */
+
+#recipies {}
+
+.recipies-head {
+    text-align: center;
+}
+
+.recipies-head h2 {
+    color: #676767;
+    font-size: 35px;
+}
+
+.recipies-head p {
+    color: #676767;
+    width: 700px;
+    margin: 0 auto;
+}
+
+.recipies-menu {
+    display: flex;
+}
+
+.recipi-item {
+    width: 20%;
+    margin-left: 10%;
+}
+
+.recipi-item img {
+    width: 100%;
+}
